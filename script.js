@@ -20,7 +20,7 @@ createBtn.addEventListener('click', function () {
 
   inputBox.id = 'notes';
   inputBox.setAttribute('contenteditable', 'true');
-  img.src = '/images/delete.png';
+  img.src = './images/delete.png';
   img.id = 'delet-ico';
 
   inputBox.appendChild(img);
