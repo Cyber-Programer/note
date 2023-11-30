@@ -20,6 +20,7 @@ createBtn.addEventListener('click', function () {
 
   inputBox.id = 'notes';
   inputBox.setAttribute('contenteditable', 'true');
+  inputBox.setAttribute("spellcheck","false");
   img.src = './images/delete.png';
   img.id = 'delet-ico';
 
