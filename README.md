@@ -17,7 +17,7 @@ This website allows users to create, edit, and delete notes. It stores notes loc
 
 Go to this link and use vartual note book.
 
-link : ```https://cyber-programer.github.io/note```
+link : https://cyber-programer.github.io/note
 
 ## Technologies Used
 
